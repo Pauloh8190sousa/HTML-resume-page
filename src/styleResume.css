@@ -1,3 +1,45 @@
-html{
-
+div.cabecalho{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+div.resumo{
+    background-color: darkgray;
+    text-align: center;
+}
+ul{
+    color: blue;
+}
+img{
+    border-radius: 50%;
+    width: 350px;
+    height: 370px;
+}
+a.button{
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+}
+#github{
+    background-color: rgb(95, 95, 95);
+    margin: 15px;
+}
+#linkedin{
+    background-color: blue;
+}
+p{
+    color: darkslategray;
+}
+hr{
+    background-color: darkgray;
+    height: 4px;
+}
+h1{
+    color:black;
+}
+h2{
+    color: red;
+}
+h3{
+    color: orangered;
 }
